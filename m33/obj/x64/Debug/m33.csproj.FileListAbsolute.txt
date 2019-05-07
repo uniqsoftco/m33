@@ -1,0 +1,7 @@
+C:\Users\Saeed\source\repos\m33\m33\bin\x64\Debug\m33.exe.config
+C:\Users\Saeed\source\repos\m33\m33\bin\x64\Debug\m33.exe
+C:\Users\Saeed\source\repos\m33\m33\bin\x64\Debug\m33.pdb
+C:\Users\Saeed\source\repos\m33\m33\obj\x64\Debug\m33.csproj.CoreCompileInputs.cache
+C:\Users\Saeed\source\repos\m33\m33\obj\x64\Debug\m33.exe
+C:\Users\Saeed\source\repos\m33\m33\obj\x64\Debug\m33.pdb
+C:\Users\Saeed\source\repos\m33\m33\obj\x64\Debug\m33.csprojAssemblyReference.cache
